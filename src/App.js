@@ -8,11 +8,11 @@ function App() {
   const [categories] = useState([
     {
       name: 'project 1',
-      description: 'Run Buddy',
+      description: 'RUN BUDDY: (copy link-->) https://github.com/asiajcrew/run-buddy',
     },
-    { name: 'project 2', description: 'Bearly Tolerable Jokes' },
-    { name: 'project 3', description: 'Community Fitness' },
-    { name: 'project 4', description: 'React Portfolio' },
+    { name: 'project 2', description: 'BEARLY TOLERABLE JOKES: (copy link-->) https://github.com/asiajcrew/Group-Project' },
+    { name: 'project 3', description: 'COMMUNITY FITNESS: (copy link-->) https://github.com/asiajcrew/community-fitness' },
+    { name: 'project 4', description: 'REACT PORTFOLIO: (copy link-->) https://github.com/asiajcrew/React-portfolio' },
   ]);
 
   const [currentCategory, setCurrentCategory] = useState(categories[0]);
