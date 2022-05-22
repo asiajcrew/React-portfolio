@@ -12,7 +12,7 @@ function App() {
     },
     { name: 'project 2', description: 'BEARLY TOLERABLE JOKES: (copy link-->) https://github.com/asiajcrew/Group-Project' },
     { name: 'project 3', description: 'COMMUNITY FITNESS: (copy link-->) https://github.com/asiajcrew/community-fitness' },
-    { name: 'project 4', description: 'REACT PORTFOLIO: (copy link-->) https://github.com/asiajcrew/React-portfolio' },
+    { name: 'project 4', description: 'Travel Blog: (copy link-->) https://github.com/asiajcrew/project-3' },
   ]);
 
   const [currentCategory, setCurrentCategory] = useState(categories[0]);
